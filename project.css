@@ -1,0 +1,72 @@
+
+    #box{
+      width:500px;
+      height:100px;
+    }
+    
+    .box1{
+      width:20%;
+      height:100px;
+   background-color: greenyellow;
+    float: left;
+    }
+    
+    .box2 {
+      width:80%;
+      height:100px;
+      background-color:yellow;
+      float: right;
+    }
+  .main{
+      width:500px;
+      height:100px;
+       background-color: green;
+    }
+        #mainbox{
+      width:500px;
+      height:250px;
+       background-color:blue;
+       float: left;
+    }
+      .mainboxd1{
+      width:50%;
+      height:250px;
+       background-color: mediumvioletred;
+       float: left;
+    }
+        .mainbox2 {
+          width:50%;
+          height:250px;
+          background-color: orange;
+          float: left;
+        }
+        .num{
+      width:500px;
+      height:100px;
+       background-color: blue;
+    }
+    .one{
+      width:33.33%;
+      height:100px;
+       background-color: deeppink;
+       float: left;
+
+    }
+     .two{
+      width:33.33%;
+      height:100px;
+      background-color: darkgrey;
+       float: left;
+    }
+     .three {
+       width:33.33%;
+       height:100px;
+       background-color: antiquewhite;
+       float: left;
+     }
+    #foot{
+      width:500px;
+      height:100px;
+      background-color:lightblue;
+      float: left;
+    }
