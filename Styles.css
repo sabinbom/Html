@@ -40,7 +40,7 @@
           background-color: orange;
           float: left;
         }
-        .wrapbox{
+        #wrapbox{
       width:500px;
       height:100px;
        background-color: blue;
