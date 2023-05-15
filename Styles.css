@@ -1,72 +1,72 @@
 
     #box{
       width:600px;
-      height:300px;
+      height:200px;
     }
     
     .box1{
       width:200;
-      height:300px;
+      height:200px;
    background-color: greenyellow;
     float: left;
     }
     
     .box2 {
       width:400;
-      height:300px;
+      height:200px;
       background-color:yellow;
       float: right;
     }
   .main{
       width:600px;
-      height:300px;
+      height:200px;
        background-color: green;
     }
         #mainbox{
       width:600px;
-      height:300px;
+      height:200px;
        background-color:blue;
        float: left;
     }
       .mainboxd1{
       width:300px;
-      height:300px;
+      height:200px;
        background-color: mediumvioletred;
        float: left;
     }
         .mainbox2 {
           width:300px;
-          height:300px;
+          height:200px;
           background-color: orange;
           float: left;
         }
         #wrapbox{
       width:600px;
-      height:300px;
+      height:200px;
        background-color: blue;
     }
     .one{
       width:200px;
-      height:300px;
+      height:200px;
        background-color: deeppink;
        float: left;
 
     }
      .two{
       width:200px;
-      height:300px;
+      height:200px;
       background-color: darkgrey;
        float: left;
     }
      .three {
        width:200px;
-       height:300px;
+       height:200px;
        background-color: antiquewhite;
        float: left;
      }
     #foot{
       width:600px;
-      height:300px;
+      height:200px;
       background-color:lightblue;
       float: left;
     }
